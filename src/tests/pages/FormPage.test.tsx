@@ -4,7 +4,7 @@ import { render } from "@testing-library/react";
 import { createMemoryHistory } from "history";
 
 import { Route, BrowserRouter as Router } from "react-router-dom";
-import FormPage from "../../pages/FormPage";
+import FormPage from "../../pages/FormPage/FormPage";
 
 import * as forms from "../../api/forms";
 
